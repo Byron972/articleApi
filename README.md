@@ -130,7 +130,7 @@ Tous les endpoints sont préfixés par `/api/`
 GET /api/article
 ```
 
-**Réponse :**
+**Réponse :** 
 ```json
 {
     "success": true,
